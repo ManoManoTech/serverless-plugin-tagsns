@@ -1,0 +1,15 @@
+{
+  "name": "serverless-plugin-tagsns",
+  "version": "1.0.0",
+  "description": "Tag SNS Topics",
+  "main": "index.js",
+  "repository": "git@github.com:ManoManoTech/serverless-plugin-tagsns.git",
+  "author": "Aurélien LAJOIE <<aurelien.lajoie@manomano.com>>",
+  "license": "MIT",
+  "keywords": [
+    "serverless",
+    "sns",
+    "tag",
+    "topic"
+  ]
+}
